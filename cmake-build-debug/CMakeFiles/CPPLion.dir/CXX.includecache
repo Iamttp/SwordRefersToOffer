@@ -9,6 +9,12 @@
 /home/ttp2/MyCode/CPPLion/Test/main.cpp
 iostream
 -
+algorithm
+-
+cstdio
+-
 vector
+-
+string
 -
 

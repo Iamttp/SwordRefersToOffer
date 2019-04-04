@@ -1,0 +1,3 @@
+/home/ttp2/MyCode/CPPLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ttp2/MyCode/CPPLion/cmake-build-debug/CMakeFiles/CPPLion.dir
+/home/ttp2/MyCode/CPPLion/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,4 @@
+/media/ttp2/3151ea0b-7a15-4c5e-bb90-2a970e66d0e3/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ttp2/MyCode/CPPLion
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ttp2/MyCode/CPPLion/cmake-build-debug

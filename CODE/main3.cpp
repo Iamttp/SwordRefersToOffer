@@ -42,6 +42,9 @@ struct ListNode {
 class Solution {
 public:
     vector<int> printListFromTailToHead(ListNode *head) {
+        // 原来是没有加下面两句话
+        if (head == NULL)
+            return NULL;
         if (head->next == NULL)
             return vector<int>{head->val};
         ListNode *l = NULL, *c = head, *r = head->next;
@@ -77,7 +80,7 @@ int main() {
     head->next = se, se->next = th, th->next = fo;
     fo->next = se1, se1->next = se2;
     vector<int> x = s.printListFromTailToHead(head);
-    for(auto it:x)
+    for (auto it:x)
         cout << it;
     return 0;
 }
